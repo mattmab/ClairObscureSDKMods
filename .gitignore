@@ -7,3 +7,4 @@ settings/
 logs/
 backups/
 *.e33map.json
+.sdk-loader.lock
