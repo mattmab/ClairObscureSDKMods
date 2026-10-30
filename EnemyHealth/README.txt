@@ -7,6 +7,6 @@ Numbers are grouped for readability and refresh up to twenty times per second.
 Reusable UI schemas prepare at activation; labels can attach during battle intros.
 No extra hotkey, combat changes, or save/map writes.
 
-Requires ClairObscurSDK RC23. Disable the mod to remove its labels.
+Requires ClairObscurSDK RC24 for responsive damage updates. Disable the mod to remove its labels.
 
 Uses SDK fast-refresh scheduling when available; older RC23 hosts use ordinary polling.
